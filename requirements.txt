@@ -1,0 +1,8 @@
+pyaudio
+wave
+python-dotenv
+openai
+groq
+webrtcvad
+pydub
+simpleaudio
